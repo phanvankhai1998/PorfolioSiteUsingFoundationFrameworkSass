@@ -1,0 +1,736 @@
+[33mcommit cfc2f3a78a0717d0eea66a121390ab24c8e1ae2e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Khai Phan Van <phan_van_khai123@yahoo.com>
+Date:   Wed Mar 17 09:08:16 2021 +0700
+
+    Project Sass Portfolio Site
+
+[33mcommit 8ed532b55de637dd3f2de368f0501750d1894ff1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 53558d4 806a5e0
+Author: Joe Workman <joe@workmanmail.com>
+Date:   Thu Jan 2 10:33:42 2020 -0800
+
+    Merge pull request #30 from foundation/dependabot/npm_and_yarn/js-yaml-3.13.1
+    
+    Bump js-yaml from 3.12.0 to 3.13.1
+
+[33mcommit 53558d47a9dbb9a3ecd4f57211941cf57a88c677[m[33m ([m[1;33mtag: v6.6.0[m[33m)[m
+Author: Joe Workman <joe@workmanmail.com>
+Date:   Thu Dec 5 15:34:54 2019 -0800
+
+    update settings
+
+[33mcommit 18b553a611f7f3c264ac0cc15e6499d52dc46016[m
+Author: Joe Workman <joe@workmanmail.com>
+Date:   Thu Dec 5 15:26:31 2019 -0800
+
+    Update for 6.6.0
+
+[33mcommit 35b91772542c923ea0cc74e5ef2c1702dd5b8e18[m
+Merge: b3ccb51 ada070b
+Author: Daniel Ruf <827205+DanielRuf@users.noreply.github.com>
+Date:   Sun Nov 24 19:09:35 2019 +0100
+
+    Merge pull request #31 from foundation/dependabot/npm_and_yarn/fstream-1.0.12
+    
+    Bump fstream from 1.0.11 to 1.0.12
+
+[33mcommit ada070be0af8fdc3f7287f6f51c306ab69561428[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 24 18:08:11 2019 +0000
+
+    Bump fstream from 1.0.11 to 1.0.12
+    
+    Bumps [fstream](https://github.com/npm/fstream) from 1.0.11 to 1.0.12.
+    - [Release notes](https://github.com/npm/fstream/releases)
+    - [Commits](https://github.com/npm/fstream/compare/v1.0.11...v1.0.12)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b3ccb5173a1ac9fa2e7c0d458d2af9bbb3f601d4[m
+Merge: 463b722 eec6d26
+Author: Daniel Ruf <827205+DanielRuf@users.noreply.github.com>
+Date:   Sun Nov 24 19:07:47 2019 +0100
+
+    Merge pull request #28 from foundation/dependabot/npm_and_yarn/mixin-deep-1.3.2
+    
+    Bump mixin-deep from 1.3.1 to 1.3.2
+
+[33mcommit 806a5e01cf742e76fcb9863e5326aa5a0a138f56[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 24 18:07:38 2019 +0000
+
+    Bump js-yaml from 3.12.0 to 3.13.1
+    
+    Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 3.12.0 to 3.13.1.
+    - [Release notes](https://github.com/nodeca/js-yaml/releases)
+    - [Changelog](https://github.com/nodeca/js-yaml/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/nodeca/js-yaml/compare/3.12.0...3.13.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 463b72224bf9e7227423b760e63584df6a0687c6[m
+Merge: 3a36c4a bae69a7
+Author: Daniel Ruf <827205+DanielRuf@users.noreply.github.com>
+Date:   Sun Nov 24 19:07:35 2019 +0100
+
+    Merge pull request #27 from foundation/dependabot/npm_and_yarn/lodash.mergewith-4.6.2
+    
+    Bump lodash.mergewith from 4.6.1 to 4.6.2
+
+[33mcommit 3a36c4ab7b3518d559a7e4d74e4c2574e11fce84[m
+Merge: f6b163a 0f401b4
+Author: Daniel Ruf <827205+DanielRuf@users.noreply.github.com>
+Date:   Sun Nov 24 19:07:02 2019 +0100
+
+    Merge pull request #29 from foundation/dependabot/npm_and_yarn/lodash-4.17.15
+    
+    Bump lodash from 4.17.11 to 4.17.15
+
+[33mcommit 0f401b43e543b451fe15621de2a264bb7b6f5651[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 24 17:59:40 2019 +0000
+
+    Bump lodash from 4.17.11 to 4.17.15
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit eec6d260f4c54ee054bde280ff5803e96ee28423[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 24 17:59:39 2019 +0000
+
+    Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2.
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bae69a7a44d391cb12b1ab8b674fc5d9373df583[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 24 17:59:38 2019 +0000
+
+    Bump lodash.mergewith from 4.6.1 to 4.6.2
+    
+    Bumps [lodash.mergewith](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f6b163a1f78a2aff2407248a7f4df69057725dca[m
+Merge: 83840f4 697bf96
+Author: Daniel Ruf <827205+DanielRuf@users.noreply.github.com>
+Date:   Sun Nov 24 18:59:02 2019 +0100
+
+    Merge pull request #25 from foundation/dependabot/npm_and_yarn/tar-2.2.2
+    
+    Bump tar from 2.2.1 to 2.2.2
+
+[33mcommit 697bf9601ac62d13a0016b706514e8f71f0b5868[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 04:47:49 2019 +0000
+
+    Bump tar from 2.2.1 to 2.2.2
+    
+    Bumps [tar](https://github.com/npm/node-tar) from 2.2.1 to 2.2.2.
+    - [Release notes](https://github.com/npm/node-tar/releases)
+    - [Commits](https://github.com/npm/node-tar/compare/v2.2.1...v2.2.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 83840f463b9d8a2da5d0e1fc46d942d9261bdd57[m
+Merge: 6858fc3 807064f
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Tue Dec 11 23:37:17 2018 +0100
+
+    Merge pull request #23 from ncoden/fix/enable-flex-utilities
+    
+    fix: enable back flex utilities
+
+[33mcommit 807064ff209c20f2477bb6adb090574f66242250[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Mon Dec 10 22:08:37 2018 +0100
+
+    fix:  enable back flex utilities
+    
+    Flex utilities should be enabled by default in flex mode.
+    Closes https://github.com/zurb/foundation-sites/issues/11623
+
+[33mcommit 6858fc325b732245bf2648fe8bdac35b57e75d92[m
+Merge: 5092da7 effd354
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Fri Nov 16 21:05:01 2018 +0100
+
+    Merge pull request #22 from ncoden/chore/upgrade-foundation-6-5-1
+    
+    chore: upgrade Foundation to v6.5
+
+[33mcommit effd354de2207b5023d74037a41e52452375b864[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Nov 15 23:59:59 2018 +0100
+
+    chore: upgrade Foundation to v6.5
+
+[33mcommit 5092da70057cb97084a7aa36e8dad6a3d90083da[m
+Merge: b31d888 ed9dab1
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Oct 4 23:25:29 2018 +0200
+
+    Merge pull request #21 from ncoden/chore/update-dependencies-2018-10-04
+    
+    chore: update dependencies (2018-10-04)
+
+[33mcommit ed9dab146d71b2621483a89f4a0e8e6aea468d34[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Oct 4 23:19:59 2018 +0200
+
+    chore: update lock files
+
+[33mcommit 2bfd658d9b26e78a9a7bb8e679fd94253853c7c4[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Oct 4 23:18:27 2018 +0200
+
+    chore: update dependencies (2018-10-04)
+    
+    | Package                         | From          | To          |
+    | :------------------------------ | :------------ | :---------- |
+    | gulp-sass                       |         2.3.2 |       4.0.1 |
+    | jquery                          |         3.2.1 |       3.3.1 |
+    | motion-ui                       |         1.2.3 |       2.0.3 |
+    | what-input                      |         4.3.1 |       5.1.2 |
+
+[33mcommit 9a491f390641b57e0aa9d0d1af1c40f1cbacf7b7[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Oct 4 23:16:30 2018 +0200
+
+    chore: upgrade to gulp@4
+
+[33mcommit 1f0f1bbe19c2ba1f89044e1d4986bcd8f740bb33[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Thu Oct 4 23:07:56 2018 +0200
+
+    chore: use autoprefixer instead of gulp-autoprefixer
+
+[33mcommit b31d888568d2a958b648b1e0d77c077dee284353[m
+Merge: 97020fb b403b4f
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Wed Oct 3 23:45:24 2018 +0200
+
+    Merge pull request #19 from isalcedo/BrowserSync-BasicTemplate
+    
+    Browsersync for basic template
+
+[33mcommit b403b4f17b84e67ef7de40bc444314bcfb8b645c[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Wed Oct 3 23:44:20 2018 +0200
+
+    chore: update lockfile
+
+[33mcommit 847f30f6fcd6049dedeb57769d6cfa32ef18dfd3[m
+Merge: 2e5a083 97020fb
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Wed Oct 3 23:43:49 2018 +0200
+
+    Merge branch 'master' into isalcedo/BrowserSync-BasicTemplate
+
+[33mcommit 97020fb0d0cd21f5c5c1c782c9b096d7c4187e56[m
+Merge: f9c3194 556b423
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Tue Feb 20 22:04:37 2018 +0100
+
+    Merge pull request #20 from zurb/npm-deps
+    
+    Updates to use only npm for dependancies
+
+[33mcommit 556b423d43b6a8e93ac81dbba2215a2c0ddff9de[m[33m ([m[1;31morigin/npm-deps[m[33m)[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Tue Feb 20 12:02:40 2018 +0100
+
+    chore: update SCSS settings to v6.4.4-rc1
+
+[33mcommit 16f3e30b4939c65ac7f894479fe7e0739fbb4766[m
+Author: Colin Marshall <colin.michael.marshall@gmail.com>
+Date:   Sun Jan 21 15:12:07 2018 -0700
+
+    added bower_components back into .gitignore
+
+[33mcommit 8b813736f22db6fc5baa04991da3096516f91973[m
+Author: Colin Marshall <colin.michael.marshall@gmail.com>
+Date:   Fri Jan 19 11:33:15 2018 -0700
+
+    updated app.scss to match v6.4.3
+
+[33mcommit 0f76a08bc2688be0197adc0482136cd0a2ec3517[m
+Author: Colin Marshall <colin.michael.marshall@gmail.com>
+Date:   Fri Jan 19 11:32:51 2018 -0700
+
+    updated settings to match v6.4.3
+
+[33mcommit f9c31941b6afb7230722b3b850ed7910bc4e5e6a[m
+Merge: 11d47da 770329a
+Author: Rafi <rafibomb@users.noreply.github.com>
+Date:   Tue Oct 3 13:43:53 2017 -0700
+
+    Merge pull request #14 from t3easy/patch-1
+    
+    Use responsive-embed instead of flex-video
+
+[33mcommit 3855d1be483ce62cc11b1831a9e2695bb4555efa[m
+Author: RafiBomb <rafi@zurb.com>
+Date:   Tue Oct 3 13:42:49 2017 -0700
+
+    removes normalize path as it's not needed
+
+[33mcommit 05cf883bdec6a8f25652b57327081c8628d9fd06[m
+Author: RafiBomb <rafi@zurb.com>
+Date:   Tue Oct 3 13:35:59 2017 -0700
+
+    removes all mentions of bower
+
+[33mcommit 9414d4fe82dbb94716df57d48b1b807c09e5dcba[m
+Author: RafiBomb <rafi@zurb.com>
+Date:   Tue Oct 3 13:34:52 2017 -0700
+
+    updates to npm dependancies
+
+[33mcommit 2e5a0831d86a9448c9a2b066752344308d990efe[m
+Author: Ignacio Salcedo <ignacio@isalcedo.com>
+Date:   Wed Sep 6 07:49:15 2017 -0500
+
+    Change gulpfile.js to add BrowserSync logic for Gulp. (BroserSync to basic template)
+
+[33mcommit 04014cccc6c3a0cec73c4959334dc040c60fcdc8[m
+Author: Ignacio Salcedo <ignacio@isalcedo.com>
+Date:   Wed Sep 6 07:48:18 2017 -0500
+
+    Change package.json to add BrowserSync as a dependency. (BroserSync to basic template)
+
+[33mcommit 11d47da3dfce25a9dcb47a15e6fcc83ed6bd89b0[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Wed Jun 28 08:38:35 2017 -0700
+
+    Fix missing body open tag
+
+[33mcommit 37cbb8a5ec60359372df058cf49b3b500f792b7d[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Tue Jun 27 16:50:28 2017 -0700
+
+    Increment bower versoin
+
+[33mcommit de6af384e2168c42b1fc732c09bcbb42f612241f[m
+Merge: b9b3517 3e26768
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Tue Jun 27 13:47:01 2017 -0700
+
+    Merge pull request #17 from zurb/v6.4
+    
+    Update simple template to 6.4
+
+[33mcommit 3e26768042469b043267b8f0eda286dba0b40b35[m[33m ([m[1;31morigin/v6.4[m[33m)[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Tue Jun 27 13:45:54 2017 -0700
+
+    Update simple template to 6.4
+
+[33mcommit b9b3517918674a7016d1227e133069c3a1cde05a[m
+Merge: 975217e cf09c7a
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Mon Jan 9 10:02:15 2017 -0800
+
+    Merge pull request #15 from zurb/fix-6.3-app-scss
+    
+    Update app.scss for 6.3.  Apparently missed in the previous update
+
+[33mcommit cf09c7a169156da44b8d89276d84f61ddf4a0f75[m[33m ([m[1;31morigin/fix-6.3-app-scss[m[33m)[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Mon Jan 9 10:01:31 2017 -0800
+
+    Update app.scss for 6.3.  Apparently missed in the previous update
+
+[33mcommit 770329a7c876ade5c74a1d80a7dd72673acb7609[m
+Author: Jan Kiesewetter <jan@t3easy.de>
+Date:   Sat Jan 7 16:36:28 2017 +0100
+
+    Use responsive-embed instead of flex-video
+    
+    because flex-video is deprecated
+
+[33mcommit 975217ef5f183d36311db90e17abb9174b93ce8a[m
+Merge: 8fe5a99 2b2f547
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Sat Dec 24 07:41:43 2016 -0800
+
+    Merge pull request #13 from ncoden/fix/js-dist-path
+    
+    Fix js dist path
+
+[33mcommit 2b2f547a7437f5d2d07c0fdeeeecb49f31a3921b[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Sat Dec 24 02:49:31 2016 +0100
+
+    Fix what-input dist path
+
+[33mcommit fe03d4afd38ef159eb9cb657d120485051b757ce[m
+Author: Nicolas Coden <nicolas@ncoden.fr>
+Date:   Sat Dec 24 02:42:21 2016 +0100
+
+    Fix js dist path
+
+[33mcommit 8fe5a99499a7e3acbb63d4f1ace15c71fbc8e98e[m
+Merge: 7b13164 97708a1
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Thu Dec 15 09:09:19 2016 -0800
+
+    Merge pull request #11 from zurb/v6.3
+    
+    V6.3
+
+[33mcommit 97708a14bbfd81acc46d969e6252d1daeeda4ba1[m[33m ([m[1;31morigin/v6.3[m[33m)[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Thu Dec 15 09:06:42 2016 -0800
+
+    Final bower update for 6.3
+
+[33mcommit 046dfa919e703b01a5bad08845c3aecce18d78f7[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Wed Dec 14 17:08:10 2016 -0800
+
+    Update scss file for 6.3
+
+[33mcommit fd74038aa8bae7d2998716c2b013b382ecb6798d[m
+Author: Kevin Ball <kmball11@gmail.com>
+Date:   Mon Dec 5 13:06:41 2016 -0800
+
+    Start work for updating to v6.3
+
+[33mcommit 7b1316411960e3373f7aa2863df170b8c70234e0[m
+Merge: 6617a81 0eaf0d5
+Author: Rafi <rafibomb@users.noreply.github.com>
+Date:   Fri Jun 17 08:51:55 2016 -0700
+
+    Merge pull request #7 from d3s1gnw/patch-1
+    
+    Compressed css in output
+
+[33mcommit 6617a81d462d5b53808e130b4e9576c55d181b1b[m
+Merge: 555e8f4 1a57d82
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Mar 2 13:14:05 2016 -0800
+
+    Merge pull request #10 from dougmacklin/sass-menu-import-order
+    
+    moved foundation-menu include above dropdown to fix issue where dropdowns stay open with flexbox mode enabled
+
+[33mcommit 1a57d821aae46985e405f0000a01830539e8240e[m
+Author: Doug Macklin <doug.macklin@gmail.com>
+Date:   Wed Mar 2 12:24:01 2016 -0800
+
+    moved foundation-menu include above dropdown to fix issue where dropdowns stay open with flexbox mode enabled
+
+[33mcommit 555e8f44c6ca97eeb51106df72a69e17e7b79843[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Tue Mar 1 14:19:53 2016 -0800
+
+    Add foundation-menu-icon CSS export
+
+[33mcommit 78aa29f6140ec5aecced76839c90aa21dccb9230[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Tue Mar 1 13:28:47 2016 -0800
+
+    Update settings file to match Foundation 6.2.0
+
+[33mcommit dfe574d99b06ac3d33d52374704e7d1522442184[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Feb 26 12:58:43 2016 -0800
+
+    Rename $grid-column-responsive-gutter to $grid-column-gutter
+
+[33mcommit 7983baa12ac2833ce1377fa198b54634a7307075[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Feb 26 12:57:51 2016 -0800
+
+    Update motion-ui dependency
+
+[33mcommit 8b0451df05ecd1a812c6f4ea72a2ba839c84a518[m
+Merge: 824fe36 b489782
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Feb 26 12:51:37 2016 -0800
+
+    Merge Foundation 6.2 compatability into master
+
+[33mcommit 824fe3646df5f4607fff08d841ca3ec1319094e9[m
+Merge: fdec9c3 d8786fc
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Tue Feb 23 10:06:40 2016 -0800
+
+    Merge pull request #9 from MainelyWeb/patch-1
+    
+    Update to use latest Foundation 6.1.2
+
+[33mcommit d8786fcff65fceeadc4478b61c2eaa214809509b[m
+Author: John Vedral <MainelyWeb@users.noreply.github.com>
+Date:   Tue Feb 23 13:05:33 2016 -0500
+
+    Update to use latest Foundation 6.1.2
+
+[33mcommit fdec9c3a9cc6ea7370a9910aa9ea419a4dbd4ae9[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Feb 22 13:52:50 2016 -0800
+
+    Update readme to indicate that Node 0.12+ is required
+
+[33mcommit b489782c7795b86e537281606b031d4712cf64a6[m[33m ([m[1;31morigin/v6.2[m[33m)[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Feb 17 17:01:13 2016 -0800
+
+    Update foundation-sites and motion-ui dependencies
+
+[33mcommit d1d7fc0ac129f25de3f6a6bc08423028fbd983b0[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Feb 17 17:00:10 2016 -0800
+
+    Move utility classes to the bottom of the cascade, and add commented-out exports for optional components
+
+[33mcommit a8bb827d62d184da032cf3c4859528316f59f9c3[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Jan 22 17:14:34 2016 -0800
+
+    Update settings file to match Foundation 6.1.2
+
+[33mcommit 5dca4bf63a38171faab3d7200734deceb0b6ca76[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Dec 23 09:04:52 2015 -0800
+
+    Update b
+
+[33mcommit b8483a5491b7b8c9ddf2b77953fe0c12de26dc0a[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Dec 23 09:03:28 2015 -0800
+
+    Update settings file to match Foundation 6.1.0
+
+[33mcommit 309b518b2eebf8b24a831bcf4d77de23128aa3ac[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Dec 18 13:43:53 2015 -0800
+
+    Add .bowerrc to ensure dependencies are always installed in a bower_components/ folder
+
+[33mcommit fda0b1c59d656b2f5f6cb6c31e9c699f1723b140[m
+Merge: fe289ad 71244dc
+Author: Erik Mellum <emellum@mail.csuchico.edu>
+Date:   Wed Dec 16 16:57:05 2015 -0800
+
+    Merge branch 'master' of https://github.com/zurb/foundation-sites-template
+
+[33mcommit fe289ad3ce49a9ef166d657a577c5a31f923289d[m
+Author: Erik Mellum <emellum@mail.csuchico.edu>
+Date:   Wed Dec 16 16:56:55 2015 -0800
+
+    Update for yeti launch
+
+[33mcommit 71244dc644e06658cadfd7168e9e92d08ea23615[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Tue Dec 15 16:56:42 2015 -0800
+
+    Update settings file to match Foundation 6.0.6
+
+[33mcommit 0eaf0d55805498083f44659b9da72eb235a71d5e[m
+Author: dhr. W <info@designw.nl>
+Date:   Wed Dec 9 13:54:52 2015 +0100
+
+    Compressed css in output
+    
+    Css compressed in output for filesize
+
+[33mcommit 59efba0b3cba15b1400a27bbd55fb39cd3bc7d58[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Dec 7 12:55:51 2015 -0800
+
+    Add accordion menu export to app.scss
+
+[33mcommit 656f4af6b93375b5da4e430e79f27289fc23f481[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Dec 2 15:40:31 2015 -0800
+
+    Update settings file to match Foundation 6.0.5
+
+[33mcommit a485dafd3e2cf9708090ce8f1d861492cfe6c6c5[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Tue Nov 24 18:10:51 2015 -0800
+
+    Update settings file to match Foundation 6.0.4
+
+[33mcommit 64e56b023d780bf3c55751b9da1b4dcd628ec661[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 23 14:39:01 2015 -0800
+
+    Add build script to package.json, for CLI compatibility
+
+[33mcommit 80585ce69213ae827fdc8c81d2e11bbb20496672[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 23 14:35:11 2015 -0800
+
+    Remove dots from relative paths in Gulpfile
+
+[33mcommit 3650e86a655d7ed74ebc9f94e001e35a1da6a672[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 23 09:15:53 2015 -0800
+
+    Update settings file to match Foundation 6.0.3
+
+[33mcommit f553b27f2fdf261908a22cc9c21ea777e927a22c[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Nov 20 11:10:43 2015 -0800
+
+    Update package.json and readme.md
+
+[33mcommit afff2a4d021397decbab35becb755b71b27b450e[m
+Merge: 55bd1bd 8e01859
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Nov 20 11:06:25 2015 -0800
+
+    Merge pull request #5 from colin-marshall/docs-link
+    
+    updated foundation-sites docs link
+
+[33mcommit 55bd1bd7239e6ba8168967019349036f77991355[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Nov 20 10:56:34 2015 -0800
+
+    Update settings file to match Foundation 6.0.1
+
+[33mcommit fcb977e29986eabad8a6ed4aade434161465b031[m
+Merge: f37dae0 051da74
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Fri Nov 20 09:01:03 2015 -0800
+
+    Merge pull request #6 from alamowo/patch-1
+    
+    Updating to new input-group classes
+
+[33mcommit 051da7465633ae402764cd42acdda67486eab319[m
+Author: alamowo <alamowo@gmail.com>
+Date:   Fri Nov 20 16:42:09 2015 +0100
+
+    updating to new input-group classes
+    
+    Changed the old .postfix class to the new input-group markup
+
+[33mcommit 8e0185973731ed4f11af3169cec93566652be7a7[m
+Author: colin-marshall <colin.michael.marshall@gmail.com>
+Date:   Thu Nov 19 14:27:00 2015 -0700
+
+    updated foundation-sites docs link
+
+[33mcommit f37dae0c4461999d11a7a42d9a99bc5ddd8082b0[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Thu Nov 19 10:08:48 2015 -0800
+
+    Reference Foundation 6.0.0 in bower.json
+
+[33mcommit 5277a368c6fd9ee980d5fab8b30454834e62d6c6[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Nov 18 18:57:00 2015 -0800
+
+    Reference beta version of Foundation 6 for now in bower.json
+
+[33mcommit 9a975614ce7105a20d50382d4cfd1f1e1b590072[m
+Merge: 73d38b5 2efed8a
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Nov 18 18:55:24 2015 -0800
+
+    Merge pull request #4 from zurb/v6-launch
+    
+    Foundation 6 Launch
+
+[33mcommit 2efed8af54997c39d2a2855d8b71b5a69b61b18b[m[33m ([m[1;31morigin/v6-launch[m[33m)[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 14:07:29 2015 -0800
+
+    Add private flags to bower.json and package.json
+
+[33mcommit 70655d524d70ed59def6654277cdb58f579d1238[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 14:03:39 2015 -0800
+
+    Change Foundation dependency to ~6.0.0 and set template version to 1.0.0
+
+[33mcommit 73d38b5faf7db6195b10b039ae3cccde2e119ce9[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 10:15:57 2015 -0800
+
+    Add Motion UI to dependencies
+
+[33mcommit d0cbd01b25d2f7b1f6147f365a9e2a51df500671[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 10:12:24 2015 -0800
+
+    Add readme and changelog
+
+[33mcommit 08292294125699b8a2aac2734cc3c8aab345160e[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 10:04:14 2015 -0800
+
+    Update devDependencies
+
+[33mcommit a98786aad7f038e18ed8775756d2a8ced1ecf3f2[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 10:00:59 2015 -0800
+
+    Replace call to mixin foundation-everything with individual component mixins
+
+[33mcommit 6b4527a140150a44f396c3d6d4105a1bbade2b07[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 09:59:47 2015 -0800
+
+    Remove unneeded HTML from index.html and properly log Sass errors in Gulp
+
+[33mcommit 73d1db9ebffe498110d44676d6bdc57dc5a208d7[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon Nov 16 09:57:52 2015 -0800
+
+    Use Bower instead of npm to install front-end deps, and add what-input JS
+
+[33mcommit a13cee8d3293392e99ae4efd8bb7339a8799bd55[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Thu Nov 5 09:16:05 2015 -0800
+
+    Add foundation-mq meta tag
+
+[33mcommit 47e03d98e1e32860a465dcccbe151f0e1c6c9abf[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Nov 4 16:51:19 2015 -0800
+
+    Update dependencies and index.html file
+
+[33mcommit 4b8f2cb03a98e83b27b83957b56741a8904cdd2a[m
+Merge: d63044f 7f148ca
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Nov 4 16:44:28 2015 -0800
+
+    Merge pull request #2 from zurb/f6
+    
+    F6
+
+[33mcommit 7f148ca38f8154997f82cceaedb5f59f2a9e1596[m[33m ([m[1;31morigin/f6[m[33m)[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Oct 28 09:35:48 2015 -0700
+
+    Update dependencies, Gulpfile, and Sass files to Foundation 6
+
+[33mcommit d63044f3048f064ad42ed8e0d48a66efa38bc0c8[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Wed Oct 28 09:31:51 2015 -0700
+
+    Remove XHTML-style tags from <head> and add IE edge meta tag
+
+[33mcommit 25d4582583b2120f11b27cf6bec3337d1cb4e162[m
+Author: Geoff Kimball <geoff@zurb.com>
+Date:   Mon May 11 16:07:09 2015 -0700
+
+    Initial commit with folder structure and Sass compiler working

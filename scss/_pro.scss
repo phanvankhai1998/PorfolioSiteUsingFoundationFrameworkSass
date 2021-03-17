@@ -1,0 +1,123 @@
+$theme-color: #4DD0E1;
+
+div.top-bar{
+    background: $theme-color;
+    .top-bar-right{
+        a{
+            background: $theme-color;
+            color: white;
+            text-transform: uppercase;
+            font-weight:bold;
+        }
+    }
+}
+
+.banner{
+    width:100%;
+
+    .banner-text{
+        position: absolute;
+        width: 100%;
+        color: white;
+        text-align: center;
+        top:35%;
+        font-size:2.5em;
+        font-weight:bold;
+    }
+
+    .banner-subtext{
+        position: absolute;
+        width: 100%;
+        color: white;
+        text-align: center;
+        margin-top:20%;
+        font-size:1.5em;
+        font-weight:bold;
+    }
+}
+
+.skills {
+    h3{
+        width: 100%;
+        text-align: center;
+        height:100px;
+        padding:30px;
+        text-transform: uppercase;
+        color:white;
+        margin:0px;
+        background:$theme-color;
+    }
+}
+
+.skill-container{
+    width: 100%px;
+    height:500px;
+    align-content: center;
+
+    .skill-box{
+        display:inline-block;
+        border:2px solid;
+        text-align: center;
+        height:200px;
+        width:200px;
+        margin-left: 90px;
+        margin-top: 150px;
+        border-color: white;
+        font-size: 1.5em;
+        padding-top:80px;
+        font-weight: bold;
+        border-radius:100px;
+        background-color: $theme-color;
+        color:white;
+    }
+}
+
+.project-container {
+    width: 100%;
+    margin-top:150px;
+
+    .image-container {
+
+    }
+
+    .project-info{
+        margin-top: 10px;
+        padding-left: 50px;
+        p{
+            padding-right: 50px;
+        }
+    }
+}
+
+.client-container{
+    .client-image{
+        text-align: center;
+        margin-top:150px;
+        img{
+            width:200px;
+            height:200px;
+        }
+    }
+
+    .client-name{
+        text-align: center;
+
+    }
+
+    .client-comment{
+        text-align: center;
+        font-style: italic;
+        font-size: 1.5em;
+    }
+}
+
+
+footer{
+    background: black;
+    color:white;
+    padding: 50px;
+    margin-top:150px;
+    ul{
+        list-style-type: none;
+    }
+}
